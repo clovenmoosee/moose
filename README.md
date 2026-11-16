@@ -4,6 +4,5 @@
 <img align="center" src="https://komarev.com/ghpvc/?username=clovenmoosee&label=​profile+views&color=866bc9"> <a href="https://git.io/typing-svg">
 
 this is me ->                         <img align="center" width="700" height="700" alt="cloven transparent" src="https://github.com/user-attachments/assets/7ac28d28-2075-46af-8dd1-d1bb3d41424d" />
-
+<p align="center">
  <a href="https://ccloven.straw.page/">strawpage</a>  
-
