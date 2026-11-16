@@ -4,5 +4,5 @@
 <p align="center">
 <img width="668" height="450"src= "file:///C:/Users/UserPC/Downloads/cloven%20transparent.webp" />
 </br>
- <a href="[https://rentry.co/1lluminos](https://ccloven.straw.page/)">moosepage</a>  
+ <a href="https://ccloven.straw.page/">moosepage</a>  
  </p>
