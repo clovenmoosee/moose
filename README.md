@@ -3,8 +3,7 @@
 
 <img align="center" src="https://komarev.com/ghpvc/?username=clovenmoosee&label=​profile+views&color=866bc9"> <a href="https://git.io/typing-svg">
 
-<p align="center">
-<img width="668" height="450"src= "file:///C:/Users/UserPC/Downloads/cloven%20transparent.webp" />
-</br>
- <a href="https://ccloven.straw.page/">moosepage</a>  
+this is me -> <img align="center" width="384" height="384" alt="cloven transparent" src="https://github.com/user-attachments/assets/7ac28d28-2075-46af-8dd1-d1bb3d41424d" />
+
+ <a align="center" href="https://ccloven.straw.page/">strawpage</a>  
  </p>
